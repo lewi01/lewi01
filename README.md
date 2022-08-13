@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋 
+I am LEWIS WAMOCHA
 
-<!--
-**lewi01/lewi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repos
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Shopping cart app
+- 🌱 I’m currently learning kubernetes
+- 👯 I’m looking to collaborate on spring boot and angular projects
+- 🤔 I’m looking for help with data structure and algorithms
+- 💬 Ask me about java, spring boot, typescript and linux
+- 📫 How to reach me: isslewi03@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love to learn, share my knowledge and work with a team.
 -->
