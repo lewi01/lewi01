@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with data structure and algorithms
 - 💬 Ask me about java, spring boot, typescript and linux
 - 📫 How to reach me: isslewi03@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love to learn, share my knowledge and work with a team.
+- 😄 Pronouns: Mr
+- ⚡ Fun fact: I love sharing my knowledge and learning from others.
 -->
