@@ -1,7 +1,7 @@
 Hi there 👋 
 I am LEWIS WAMOCHA
 
-Welcome to my githup
+Welcome to my github
 
 Here are some ideas to get you started:
 
