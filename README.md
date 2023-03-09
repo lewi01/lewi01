@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I love sharing my knowledge and learning from others.
 -->
+
+
+https://github-readme-stats.vercel.app/api?username=lewi01&&count_private=true&hide=prs
