@@ -5,7 +5,6 @@ Welcome to my github
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Shopping cart app
 - 🌱 I’m currently learning kubernetes
 - 👯 I’m looking to collaborate on spring boot and angular projects
 - 🤔 I’m experience with using data structure and algorithms in Java
